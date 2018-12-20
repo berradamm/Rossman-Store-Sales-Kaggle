@@ -12,6 +12,7 @@ Depending on the amount of missing datas we either :
 - Fill them following a chosen method such as the median or the mean when it comes to quantitatives datas
 - Fill them following the previous or next value or by linear interpolation, polynomial or spline smoothing if we are dealing with time series data.
 - Drop them if they are a few and form a group
+
 Below i show you the way to better handlings for missing datas
 ### Missing data imputation
 In the notebook shared the methods for exploring the dataset are not exhaustive.
