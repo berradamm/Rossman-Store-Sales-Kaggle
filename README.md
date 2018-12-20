@@ -5,7 +5,15 @@ Explore , Visualize & Analyze
 ## Overview
 Here are presented the basics for datamining or wrangling using Python and Pandas.
 
-## Missing data imputation
+## Clean the dataset
+Here we are using pandas, thus, in order to clean our dataset we are going be to using some elementary strategies.
+Depending on the amount of missing datas we either :
+
+- Fill them following a chosen method such as the median or the mean when it comes to quantitatives datas
+- Fill them following the previous or next value or by linear interpolation, polynomial or spline smoothing if we are dealing with time series data.
+- Drop them if they are a few and form a group
+Below i show you the way to better handlings for missing datas
+### Missing data imputation
 In the notebook shared the methods for exploring the dataset are not exhaustive.
 Here is a paper with a large amount of technics and strategies aiming to fill the missing data the best way possible.
 [Imputation of missing data](http://wikistat.fr/pdf/st-m-app-idm.pdf)
