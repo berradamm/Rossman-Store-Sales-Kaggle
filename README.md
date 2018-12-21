@@ -24,3 +24,9 @@ We are starting with the basic histograms and boxplot after droping the missing 
 Then we added a more elaborate tool which is Bivariate description
 
 ![image](https://user-images.githubusercontent.com/45148200/50256659-96018c00-03f7-11e9-9a3f-2219e29536cd.png)
+## Results after the forecast
+![prediction2](https://user-images.githubusercontent.com/45148200/50366230-c886c280-0578-11e9-8d4d-b7bf971506dd.png)
+![prediction](https://user-images.githubusercontent.com/45148200/50366235-cb81b300-0578-11e9-9245-bf17ae2016e0.png)
+## Kaggle Score 
+- Public:0.24111
+- Private:0.24317
