@@ -1,7 +1,6 @@
 
 
-
-![image](https://user-images.githubusercontent.com/45148200/50420336-167c1e80-0836-11e9-8f3c-224f4cab73bd.png)
+# Rossman Store Sales Kaggle
 
 # Feature Engeeniring
 
