@@ -1,10 +1,12 @@
 
-# Rossman Store Sales Kaggle 
+
 
 ![image](https://user-images.githubusercontent.com/45148200/50420336-167c1e80-0836-11e9-8f3c-224f4cab73bd.png)
 
 # Feature Engeeniring
+
 ![image](https://user-images.githubusercontent.com/45148200/50256410-7fa70080-03f6-11e9-8ed2-8f1efece1f88.png)
+
 Here are presented the basics for datamining or wrangling using Python and Pandas.
 ## Clean the dataset
 Here we are using pandas, thus, in order to clean our dataset we are going be to using some elementary strategies.
