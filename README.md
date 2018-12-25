@@ -1,7 +1,9 @@
 
 
 # Rossman Store Sales Kaggle
+This project contains two notebook. The first one deals with data exploration, thus there is a lot of visualization that illustrate the influences of different variables.
 
+The second one is the building of the model which implies Feature engineering , dataset cleaning and filling and finally the prediction with the redirection to a csv file for submission 
 # Feature Engeeniring
 
 ![image](https://user-images.githubusercontent.com/45148200/50256410-7fa70080-03f6-11e9-8ed2-8f1efece1f88.png)
@@ -30,4 +32,5 @@ Then we added a more elaborate tool which is Bivariate description
 ![prediction2](https://user-images.githubusercontent.com/45148200/50366230-c886c280-0578-11e9-8d4d-b7bf971506dd.png)
 ![prediction](https://user-images.githubusercontent.com/45148200/50366235-cb81b300-0578-11e9-9245-bf17ae2016e0.png)
 ## Kaggle Score 
-- Public:0.12886
+- Public: 0.12886
+- Private: 0.14032
